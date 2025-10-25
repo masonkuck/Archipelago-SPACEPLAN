@@ -1,0 +1,156 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="n3-GUCPDhhxMAptAHIXt">
+    <mxGraphModel dx="2276" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-2" value="Repair Solar Panels" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-3" value="Kinetigen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="90" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-4" value="Thing maker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-5" value="Idea Lister" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="250" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-6" target="xfNLc5fEMq5k_Efv11nq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-20" value="Some Number" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xfNLc5fEMq5k_Efv11nq-17">
+          <mxGeometry x="-0.1111" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-6" value="Potato" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-7" target="xfNLc5fEMq5k_Efv11nq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-40" value="3 Made" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xfNLc5fEMq5k_Efv11nq-39">
+          <mxGeometry x="0.1579" y="-3" relative="1" as="geometry">
+            <mxPoint x="-10" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-7" value="Probetato" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-8" value="Thing Maker Items" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-9" value="Screen Sections" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-10" target="xfNLc5fEMq5k_Efv11nq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-10" value="Kinetigen Tweak" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-13" value="Idea Lister Items" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-14" target="xfNLc5fEMq5k_Efv11nq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-14" value="Kinetigen Overclock" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-16" target="xfNLc5fEMq5k_Efv11nq-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-16" value="Maris Pipers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-18" value="Maris Peers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-24" target="xfNLc5fEMq5k_Efv11nq-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-43" value="Landed Probetato&amp;nbsp;&lt;div&gt;after foil&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xfNLc5fEMq5k_Efv11nq-42">
+          <mxGeometry x="-0.2522" y="3" relative="1" as="geometry">
+            <mxPoint x="12" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-24" value="Probetato Foil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="275" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-28" target="xfNLc5fEMq5k_Efv11nq-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-34" value="3(?) Made" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xfNLc5fEMq5k_Efv11nq-33">
+          <mxGeometry x="-0.0286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-28" value="Spudnik" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-29" target="xfNLc5fEMq5k_Efv11nq-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-29" value="Atomic Kinetigen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-31" target="xfNLc5fEMq5k_Efv11nq-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-31" value="Kinetigen Sparkifier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="660" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-32" value="Golden Spudnik Foil" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-37" value="Kinetigen Spark Catcher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="660" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-41" target="xfNLc5fEMq5k_Efv11nq-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-41" value="Probetato Roots" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="530" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-44" value="Probetato Planters" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-46" target="xfNLc5fEMq5k_Efv11nq-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-46" value="Spud Incubator&lt;div&gt;(unknown trigger)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="740" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xfNLc5fEMq5k_Efv11nq-47" target="xfNLc5fEMq5k_Efv11nq-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-47" value="Potato Incubator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="740" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-49" value="Potato Plant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-51" value="Super Kinetigen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="790" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-53" value="Tater Incubator" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="740" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-55" value="ProbetatoFoil,&#xa;PodModule,&#xa;ReturnToEarth,&#xa;SystemPeeker,&#xa;PlanetBooster,&#xa;ApproachHole,&#xa;ReturnToReEarth,&#xa;LaunchToOrbit,&#xa;EnterSaturn,&#xa;EscapeSaturn,&#xa;RealityJumper,&#xa;ScanReEarth,&#xa;ScanMars,&#xa;ScanNeptune,&#xa;ScanSaturn,&#xa;ScanSaturnAgain,&#xa;SkipToMars,&#xa;SkipToNeptune,&#xa;SkipToSaturn,&#xa;TheBestGeneticThings,&#xa;KinetigenTweak,&#xa;KinetigenOverclock,&#xa;AtomicKinetigen,&#xa;SuperKinetigen,&#xa;VeryGoodKinetigen,&#xa;GreatKinetigen,&#xa;ExcellentKinetigen,&#xa;TheBestKinetigen,&#xa;KinetigenSparkifier,&#xa;KinetigenSparkCatcher,&#xa;KinetigenSparkLover,&#xa;SpudIncubator,&#xa;PotatoIncubator,&#xa;TaterIncubator,&#xa;CleanSolarPanels,&#xa;PolishedSolarPanels,&#xa;GoldenSolarPanels,&#xa;SolarAmbience,&#xa;MarisPipers,&#xa;MarisPeers,&#xa;ProbetatoRoots,&#xa;ProbetatoPlanters,&#xa;GoldenSpudnikFoil,&#xa;GrapheneSpudnikWraps,&#xa;PotatoPlantRoots,&#xa;PotatoPlantPlanters,&#xa;MonolithicHashies,&#xa;GreasyHashies,&#xa;SolarSpuds,&#xa;HighDensitySpuds,&#xa;PlatedLaunchers,&#xa;NeutronPotatoes,&#xa;SelfCleaningPanels,&#xa;AutoPolishingPanels,&#xa;TheBestPotato,&#xa;ActuallyTheBestPotatoes,&#xa;PaprikaPotatoWedges,&#xa;SaltedPotatoWedges,&#xa;GreasedUpBeams,&#xa;FanAssistedBeams,&#xa;PotatankSacks,&#xa;PotatankBaskets,&#xa;GenerativeResidue,&#xa;CreamyMash,&#xa;TallerTaters,&#xa;WiderTaters" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-1070" width="170" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-57" value="&lt;b&gt;Research&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-1090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-58" value="RepairSolarPanel,&#xa;Potato,&#xa;Probetato,&#xa;Spudnik,&#xa;PotatoPlant,&#xa;TaterTower,&#xa;SpudGun,&#xa;PotatoLauncher,&#xa;SuperSolarPanel,&#xa;ProperPotato,&#xa;PotatoWedge,&#xa;Spudalite,&#xa;Potatank,&#xa;PlanetMasher,&#xa;TallTater,&#xa;ProjectileSpud,&#xa;ProjectilePotato,&#xa;EscapePod,&#xa;SystemPeeker,&#xa;PlanetBooster,&#xa;Particle" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-1070" width="130" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="xfNLc5fEMq5k_Efv11nq-59" value="&lt;b&gt;Items&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-1090" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
