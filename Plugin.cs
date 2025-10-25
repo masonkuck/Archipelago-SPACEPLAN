@@ -36,26 +36,47 @@ public class Plugin : BaseUnityPlugin
         var kinetController = KinetigenController.Instance();
         if (kinetController != null)
         {
-            if (kinetController.KinetigenPowerGeneration <= 1000)
+            if (kinetController.KinetigenPowerGeneration <= 500_000_000)
             {
-                kinetController.SetKinetigenPower(10000);
+                kinetController.SetKinetigenPower(500_000_000);
                 // Logger.LogInfo("Power modified successfully!");
             }
         }
 
-        // var powerController = PowerController.Instance();
-        // if (powerController != null)
+        // if ((Autoplayer.Instance()?.Autoplay ?? false) == true)
         // {
-        //     if (count % 100 == 0)
-        //     {
-        //         // powerController.SetPower(10000);
-        //         var solarPanel = powerController.Generators.First(x => x.ItemType == ItemType.RepairSolarPanel);
-        //         solarPanel.SetCount(solarPanel.Count + 1);
+        //     Logger.LogWarning($"Autoplayer.Instance()?.Autoplay = {Autoplayer.Instance()?.Autoplay}");
 
-        //         Logger.LogInfo(solarPanel.Count);
-        //     }
-
+        //     Autoplayer.Instance().ToggleAutoplayer();
         // }
+        var powerController = PowerController.Instance();
+        if (powerController != null)
+        {
+            if (count % 100 == 0 && powerController.GetPower() < 100_000_000)
+            {
+                powerController.SetPower(100_000_000);
+                // var solarPanel = powerController.Generators.First(x => x.ItemType == ItemType.RepairSolarPanel);
+                // solarPanel.SetCount(solarPanel.Count + 1);
+
+                // Logger.LogInfo(solarPanel.Count);
+            }
+
+            if (count % 100 == 0)
+            {
+            }
+
+        }
+
+        // Unlock Research
+        // var research = PowerController.Instance().FindUnavailableIdea(ResearchType.GreasyHashies);
+        // Logger.LogInfo(research);
+        // research.CreateBuyable();
+
+        // Unlock Research
+        // var research = PowerController.Instance().FindUnavailableIdea(ResearchType.GreasyHashies);
+        // Logger.LogInfo(research);
+        // research.CreateBuyable();
+
 
     }
 
